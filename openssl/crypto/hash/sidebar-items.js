@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["hash","Computes the hash of the `data` with the hash `t`."]],"enum":[["Type","Message digest (hash) type."]],"struct":[["Hasher","Provides message digest (hash) computation."]]});
